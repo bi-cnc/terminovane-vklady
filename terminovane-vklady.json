@@ -1,0 +1,93 @@
+[
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "0,40 %",
+    "Minimální výše vkladu": "0 Kč",
+    "Maximální výše vkladu": "100 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,13 %",
+    "Minimální výše vkladu": "100 000 Kč",
+    "Maximální výše vkladu": "400 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,18 %",
+    "Minimální výše vkladu": "400 000 Kč",
+    "Maximální výše vkladu": "800 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,23 %",
+    "Minimální výše vkladu": "800 000 Kč",
+    "Maximální výše vkladu": "1 200 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,28 %",
+    "Minimální výše vkladu": "1 200 000 Kč",
+    "Maximální výše vkladu": "1 600 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,33 %",
+    "Minimální výše vkladu": "1 600 000 Kč",
+    "Maximální výše vkladu": "2 000 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,38 %",
+    "Minimální výše vkladu": "2 000 000 Kč",
+    "Maximální výše vkladu": "3 000 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,43 %",
+    "Minimální výše vkladu": "3 000 000 Kč",
+    "Maximální výše vkladu": "4 000 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,48 %",
+    "Minimální výše vkladu": "4 000 000 Kč",
+    "Maximální výše vkladu": "5 000 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "1,53 %",
+    "Minimální výše vkladu": "5 000 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "J&T Banka",
+    "Délka tenoru": "2 roky",
+    "Výše úrokové sazby": "3,40%",
+    "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
+    "Maximální výše vkladu": ""
+  },
+  {
+    "Banka": "J&T Banka",
+    "Délka tenoru": "120 měsíců ",
+    "Výše úrokové sazby": "4,00%",
+    "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
+    "Maximální výše vkladu": ""
+  },
+  {
+    "Banka": "Fio banka",
+    "Délka tenoru": "14 dnů",
+    "Výše úrokové sazby": "2,30 %",
+    "Minimální výše vkladu": "3 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  }
+]
