@@ -158,7 +158,7 @@
     "Délka tenoru": "3 měsíce",
     "Výše úrokové sazby": "2,60%",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
-    "Maximální výše vkladu": ""
+    "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "Trinity Bank",
@@ -438,7 +438,7 @@
     "Délka tenoru": "6 měsíců ",
     "Výše úrokové sazby": "2,60%",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
-    "Maximální výše vkladu": ""
+    "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "Trinity Bank",
@@ -585,14 +585,14 @@
     "Délka tenoru": "1 rok",
     "Výše úrokové sazby": "3,30%",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
-    "Maximální výše vkladu": ""
+    "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "15 měsíců",
     "Výše úrokové sazby": "3,32%",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
-    "Maximální výše vkladu": ""
+    "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "Trinity Bank",
@@ -648,7 +648,7 @@
     "Délka tenoru": "18 měsíců ",
     "Výše úrokové sazby": "3,35%",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
-    "Maximální výše vkladu": ""
+    "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "Trinity Bank",
@@ -739,14 +739,14 @@
     "Délka tenoru": "2 roky",
     "Výše úrokové sazby": "3,40%",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
-    "Maximální výše vkladu": ""
+    "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "10 let",
     "Výše úrokové sazby": "4,00%",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
-    "Maximální výše vkladu": ""
+    "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "Fio banka",
