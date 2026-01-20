@@ -768,6 +768,20 @@
     "Výše úrokové sazby": "1,78 %",
     "Minimální výše vkladu": "100 000 Kč",
     "Maximální výše vkladu": "30 000 000 Kč"
+  },
+    {
+    "Banka": "Komerční banka",
+    "Délka tenoru": "7 dnů",
+    "Výše úrokové sazby": "0,01 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+    {
+    "Banka": "Fio banka",
+    "Délka tenoru": "7 dnů",
+    "Výše úrokové sazby": "2,30 %",
+    "Minimální výše vkladu": "3 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
   }
   
 ]
