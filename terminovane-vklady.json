@@ -754,5 +754,20 @@
     "Výše úrokové sazby": "2,30 %",
     "Minimální výše vkladu": "3 000 Kč",
     "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "žádná lhůta",
+    "Výše úrokové sazby": "0,40 %",
+    "Minimální výše vkladu": "0 Kč",
+    "Maximální výše vkladu": "100 000 Kč"
+  },
+    {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "žádná lhůta",
+    "Výše úrokové sazby": "1,78 % %",
+    "Minimální výše vkladu": "100 000 Kč",
+    "Maximální výše vkladu": "30 000 000 Kč"
   }
+  
 ]
