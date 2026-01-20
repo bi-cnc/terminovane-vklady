@@ -782,6 +782,90 @@
     "Výše úrokové sazby": "2,30 %",
     "Minimální výše vkladu": "3 000 Kč",
     "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "J&T Banka",
+    "Délka tenoru": "2 roky",
+    "Výše úrokové sazby": "3,40%",
+    "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
+    "Maximální výše vkladu": "—"
+  },
+  {
+    "Banka": "Fio banka",
+    "Délka tenoru": "2 roky",
+    "Výše úrokové sazby": "2,30 %",
+    "Minimální výše vkladu": "3 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "ČSOB",
+    "Délka tenoru": "2 roky",
+    "Výše úrokové sazby": "2,00 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "Raiffeisenbank",
+    "Délka tenoru": "2 roky",
+    "Výše úrokové sazby": "1,80 %",
+    "Minimální výše vkladu": "10 000 Kč",
+    "Maximální výše vkladu": "10 000 000 Kč"
+  },
+  {
+    "Banka": "Raiffeisenbank",
+    "Délka tenoru": "2 roky",
+    "Výše úrokové sazby": "1,80 %",
+    "Minimální výše vkladu": "10 000 001 Kč",
+    "Maximální výše vkladu": "30 000 000 Kč"
+  },
+  {
+    "Banka": "Trinity Bank",
+    "Délka tenoru": "2 roky",
+    "Výše úrokové sazby": "1,71 %",
+    "Minimální výše vkladu": "3 000 000 Kč",
+    "Maximální výše vkladu": "10 000 000 Kč"
+  },
+  {
+    "Banka": "J&T Banka",
+    "Délka tenoru": "9 měsíců",
+    "Výše úrokové sazby": "2,60%",
+    "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
+    "Maximální výše vkladu": "—"
+  },
+  {
+    "Banka": "Oberbank",
+    "Délka tenoru": "9 měsíců",
+    "Výše úrokové sazby": "2,60 %",
+    "Minimální výše vkladu": "30 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "Fio banka",
+    "Délka tenoru": "9 měsíců",
+    "Výše úrokové sazby": "2,30 %",
+    "Minimální výše vkladu": "3 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "Raiffeisenbank",
+    "Délka tenoru": "9 měsíců",
+    "Výše úrokové sazby": "1,85 %",
+    "Minimální výše vkladu": "10 000 Kč",
+    "Maximální výše vkladu": "10 000 000 Kč"
+  },
+  {
+    "Banka": "Raiffeisenbank",
+    "Délka tenoru": "9 měsíců",
+    "Výše úrokové sazby": "1,85 %",
+    "Minimální výše vkladu": "10 000 001 Kč",
+    "Maximální výše vkladu": "30 000 000 Kč"
+  },
+  {
+    "Banka": "Raiffeisenbank",
+    "Délka tenoru": "9 měsíců",
+    "Výše úrokové sazby": "0,01 %",
+    "Minimální výše vkladu": "30 000 001 Kč",
+    "Maximální výše vkladu": "neomezeno"
   }
   
 ]
