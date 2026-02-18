@@ -492,7 +492,7 @@
   {
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "3,40 %",
+    "Výše úrokové sazby": "3,2 %",
     "Minimální výše vkladu": "40 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -886,6 +886,13 @@
     "Délka tenoru": "4 roky",
     "Výše úrokové sazby": "2,30 %",
     "Minimální výše vkladu": "3 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+    {
+    "Banka": "J&T Banka",
+    "Délka tenoru": "4 roky",
+    "Výše úrokové sazby": "3,50 %",
+    "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "neomezeno"
   },
   {
