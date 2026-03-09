@@ -86,16 +86,16 @@
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "1 měsíc",
-    "Výše úrokové sazby": "2,50 %",
+    "Výše úrokové sazby": "2,40 %",
     "Minimální výše vkladu": "30 000 Kč",
-    "Maximální výše vkladu": "1 000 000 Kč"
+    "Maximální výše vkladu": "999 999 Kč"
   },
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "1 měsíc",
-    "Výše úrokové sazby": "2,70 %",
-    "Minimální výše vkladu": "1 000 001 Kč",
-    "Maximální výše vkladu": "neomezeno"
+    "Výše úrokové sazby": "2,60 %",
+    "Minimální výše vkladu": "1 000 000 Kč",
+    "Maximální výše vkladu": "10 000 000 Kč"
   },
   {
     "Banka": "Air Bank",
@@ -240,16 +240,16 @@
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "3 měsíce",
-    "Výše úrokové sazby": "3,00 %",
+    "Výše úrokové sazby": "2,90 %",
     "Minimální výše vkladu": "30 000 Kč",
-    "Maximální výše vkladu": "1 000 000 Kč"
+    "Maximální výše vkladu": "999 999 Kč"
   },
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "3 měsíce",
-    "Výše úrokové sazby": "3,00 %",
-    "Minimální výše vkladu": "1 000 001 Kč",
-    "Maximální výše vkladu": "neomezeno"
+    "Výše úrokové sazby": "2,90 %",
+    "Minimální výše vkladu": "1 000 000 Kč",
+    "Maximální výše vkladu": "10 000 000 Kč"
   },
   {
     "Banka": "Air Bank",
@@ -373,16 +373,16 @@
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "6 měsíců",
-    "Výše úrokové sazby": "3,20 %",
+    "Výše úrokové sazby": "3,10 %",
     "Minimální výše vkladu": "30 000 Kč",
-    "Maximální výše vkladu": "1 000 000 Kč"
+    "Maximální výše vkladu": "999 999 Kč"
   },
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "6 měsíců",
-    "Výše úrokové sazby": "3,20 %",
-    "Minimální výše vkladu": "1 000 001 Kč",
-    "Maximální výše vkladu": "neomezeno"
+    "Výše úrokové sazby": "3,10 %",
+    "Minimální výše vkladu": "1 000 000 Kč",
+    "Maximální výše vkladu": "10 000 000 Kč"
   },
   {
     "Banka": "Air Bank",
@@ -522,14 +522,14 @@
     "Délka tenoru": "1 rok",
     "Výše úrokové sazby": "3,00 %",
     "Minimální výše vkladu": "30 000 Kč",
-    "Maximální výše vkladu": "1 000 000 Kč"
+    "Maximální výše vkladu": "999 999 Kč"
   },
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "1 rok",
     "Výše úrokové sazby": "3,10 %",
-    "Minimální výše vkladu": "1 000 001 Kč",
-    "Maximální výše vkladu": "neomezeno"
+    "Minimální výše vkladu": "1 000 000 Kč",
+    "Maximální výše vkladu": "10 000 000 Kč"
   },
   {
     "Banka": "Air Bank",
