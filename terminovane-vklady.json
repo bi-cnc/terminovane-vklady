@@ -54,7 +54,7 @@
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "1 měsíc",
     "Výše úrokové sazby": "2,70 %",
-    "Minimální výše vkladu": "0 Kč",
+    "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "2 499 999 Kč"
   },
   {
@@ -215,7 +215,7 @@
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "3 měsíce",
     "Výše úrokové sazby": "3,20 %",
-    "Minimální výše vkladu": "40 000 Kč",
+    "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
   {
@@ -348,7 +348,7 @@
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "6 měsíců",
     "Výše úrokové sazby": "3,25 %",
-    "Minimální výše vkladu": "40 000 Kč",
+    "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
   {
@@ -495,7 +495,7 @@
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "1 rok",
     "Výše úrokové sazby": "3,30 %",
-    "Minimální výše vkladu": "40 000 Kč",
+    "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
   {
@@ -663,7 +663,7 @@
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "2 roky",
     "Výše úrokové sazby": "3,40 %",
-    "Minimální výše vkladu": "40 000 Kč",
+    "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
   {
@@ -845,7 +845,7 @@
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "3 roky",
     "Výše úrokové sazby": "3,50 %",
-    "Minimální výše vkladu": "40 000 Kč",
+    "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
   {
