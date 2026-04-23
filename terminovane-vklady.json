@@ -128,6 +128,13 @@
     "Maximální výše vkladu": "neomezeno"
   },
   {
+    "Banka": "Creditas",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "2,50 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
     "Banka": "Raiffeisenbank",
     "Délka tenoru": "2 měsíce",
     "Výše úrokové sazby": "0,01 %",
@@ -295,6 +302,13 @@
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "3 000 000 Kč"
   },
+    {
+    "Banka": "Creditas",
+    "Délka tenoru": "3 měsíce",
+    "Výše úrokové sazby": "3,00 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
   {
     "Banka": "Trinity Bank",
     "Délka tenoru": "6 měsíců",
@@ -443,6 +457,20 @@
     "Maximální výše vkladu": "neomezeno"
   },
   {
+    "Banka": "Creditas",
+    "Délka tenoru": "6 měsíců",
+    "Výše úrokové sazby": "3,10 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "Creditas",
+    "Délka tenoru": "9 měsíců",
+    "Výše úrokové sazby": "3,20 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
     "Banka": "Trinity Bank",
     "Délka tenoru": "1 rok",
     "Výše úrokové sazby": "0,40 %",
@@ -587,6 +615,13 @@
     "Délka tenoru": "1 rok",
     "Výše úrokové sazby": "3,60 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "Creditas",
+    "Délka tenoru": "1 rok",
+    "Výše úrokové sazby": "3,50 %",
+    "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
   {
@@ -751,10 +786,24 @@
     "Maximální výše vkladu": "neomezeno"
   },
   {
+    "Banka": "Creditas",
+    "Délka tenoru": "2 roky",
+    "Výše úrokové sazby": "3,70 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
     "Banka": "J&T Banka",
     "Délka tenoru": "10 let",
     "Výše úrokové sazby": "4,00 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
+    "Maximální výše vkladu": "neomezeno"
+  },
+  {
+    "Banka": "Creditas",
+    "Délka tenoru": "10 let",
+    "Výše úrokové sazby": "2,00 %",
+    "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
   {
