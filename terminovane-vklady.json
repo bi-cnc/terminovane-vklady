@@ -1,5 +1,8 @@
 
 
+
+
+
 [
   {
     "Banka": "Trinity Bank",
@@ -165,7 +168,7 @@
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "3 měsíce",
-    "Výše úrokové sazby": "3,45 %",
+    "Výše úrokové sazby": "3,50 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -452,7 +455,7 @@
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "6 měsíců",
-    "Výše úrokové sazby": "3,50 %",
+    "Výše úrokové sazby": "3,60 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -613,7 +616,7 @@
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "3,60 %",
+    "Výše úrokové sazby": "3,70 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -627,7 +630,7 @@
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "15 měsíců",
-    "Výše úrokové sazby": "3,65 %",
+    "Výše úrokové sazby": "3,75 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -683,7 +686,7 @@
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "18 měsíců",
-    "Výše úrokové sazby": "3,70 %",
+    "Výše úrokové sazby": "3,75 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -781,7 +784,7 @@
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "2 roky",
-    "Výše úrokové sazby": "3,75 %",
+    "Výše úrokové sazby": "3,80 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -844,7 +847,7 @@
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "9 měsíců",
-    "Výše úrokové sazby": "3,55 %",
+    "Výše úrokové sazby": "3,65 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "—"
   },
