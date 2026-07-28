@@ -63,7 +63,7 @@
   {
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "1 měsíc",
-    "Výše úrokové sazby": "3,40 %",
+    "Výše úrokové sazby": "3,70 %",
     "Minimální výše vkladu": "2 500 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -98,7 +98,14 @@
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "1 měsíc",
-    "Výše úrokové sazby": "2,60 %",
+    "Výše úrokové sazby": "2,25 %",
+    "Minimální výše vkladu": "30 000 Kč",
+    "Maximální výše vkladu": "999 999 Kč"
+  },
+    {
+    "Banka": "UniCredit Bank",
+    "Délka tenoru": "1 měsíc",
+    "Výše úrokové sazby": "2,45 %",
     "Minimální výše vkladu": "1 000 000 Kč",
     "Maximální výše vkladu": "10 000 000 Kč"
   },
@@ -133,7 +140,7 @@
   {
     "Banka": "Creditas",
     "Délka tenoru": "1 měsíc",
-    "Výše úrokové sazby": "2,50 %",
+    "Výše úrokové sazby": "3,50 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -224,7 +231,7 @@
   {
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "3 měsíce",
-    "Výše úrokové sazby": "3,20 %",
+    "Výše úrokové sazby": "3,70 %",
     "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -252,21 +259,21 @@
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "3 měsíce",
-    "Výše úrokové sazby": "2,90 %",
+    "Výše úrokové sazby": "3,00 %",
     "Minimální výše vkladu": "30 000 Kč",
     "Maximální výše vkladu": "999 999 Kč"
   },
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "3 měsíce",
-    "Výše úrokové sazby": "2,90 %",
+    "Výše úrokové sazby": "3,00 %",
     "Minimální výše vkladu": "1 000 000 Kč",
     "Maximální výše vkladu": "10 000 000 Kč"
   },
   {
     "Banka": "Air Bank",
     "Délka tenoru": "3 měsíce",
-    "Výše úrokové sazby": "3,20 %",
+    "Výše úrokové sazby": "3,70 %",
     "Minimální výše vkladu": "30 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -308,7 +315,7 @@
     {
     "Banka": "Creditas",
     "Délka tenoru": "3 měsíce",
-    "Výše úrokové sazby": "3,00 %",
+    "Výše úrokové sazby": "3,55 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -364,7 +371,7 @@
   {
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "6 měsíců",
-    "Výše úrokové sazby": "3,25 %",
+    "Výše úrokové sazby": "3,50 %",
     "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -392,14 +399,14 @@
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "6 měsíců",
-    "Výše úrokové sazby": "3,10 %",
+    "Výše úrokové sazby": "3,35 %",
     "Minimální výše vkladu": "30 000 Kč",
     "Maximální výše vkladu": "999 999 Kč"
   },
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "6 měsíců",
-    "Výše úrokové sazby": "3,10 %",
+    "Výše úrokové sazby": "3,35 %",
     "Minimální výše vkladu": "1 000 000 Kč",
     "Maximální výše vkladu": "10 000 000 Kč"
   },
@@ -462,14 +469,14 @@
   {
     "Banka": "Creditas",
     "Délka tenoru": "6 měsíců",
-    "Výše úrokové sazby": "3,30 %",
+    "Výše úrokové sazby": "3,60 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "Creditas",
     "Délka tenoru": "9 měsíců",
-    "Výše úrokové sazby": "3,40 %",
+    "Výše úrokové sazby": "3,60 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -525,7 +532,7 @@
   {
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "3,30 %",
+    "Výše úrokové sazby": "3,50 %",
     "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -553,14 +560,14 @@
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "3,00 %",
+    "Výše úrokové sazby": "3,30 %",
     "Minimální výše vkladu": "30 000 Kč",
     "Maximální výše vkladu": "999 999 Kč"
   },
   {
     "Banka": "UniCredit Bank",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "3,10 %",
+    "Výše úrokové sazby": "3,40 %",
     "Minimální výše vkladu": "1 000 000 Kč",
     "Maximální výše vkladu": "10 000 000 Kč"
   },
@@ -588,7 +595,7 @@
   {
     "Banka": "ČSOB",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "2,40 %",
+    "Výše úrokové sazby": "3,20 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -616,14 +623,14 @@
   {
     "Banka": "J&T Banka",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "3,70 %",
+    "Výše úrokové sazby": "3,60 %",
     "Minimální výše vkladu": "Minimální vklad je 1 milion CZK, pro stávající klienty 100 tisíc CZK",
     "Maximální výše vkladu": "neomezeno"
   },
   {
     "Banka": "Creditas",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "3,50 %",
+    "Výše úrokové sazby": "3,65 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -770,7 +777,7 @@
   {
     "Banka": "Fio banka",
     "Délka tenoru": "2 roky",
-    "Výše úrokové sazby": "2,30 %",
+    "Výše úrokové sazby": "3,00 %",
     "Minimální výše vkladu": "3 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -792,6 +799,27 @@
     "Banka": "Creditas",
     "Délka tenoru": "2 roky",
     "Výše úrokové sazby": "3,70 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+    {
+    "Banka": "Creditas",
+    "Délka tenoru": "3 roky",
+    "Výše úrokové sazby": "3,70 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+      {
+    "Banka": "Creditas",
+    "Délka tenoru": "5 let",
+    "Výše úrokové sazby": "2,00 %",
+    "Minimální výše vkladu": "5 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+        {
+    "Banka": "Creditas",
+    "Délka tenoru": "7 let",
+    "Výše úrokové sazby": "2,00 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -917,7 +945,7 @@
   {
     "Banka": "Fio banka",
     "Délka tenoru": "3 roky",
-    "Výše úrokové sazby": "2,30 %",
+    "Výše úrokové sazby": "3,00 %",
     "Minimální výše vkladu": "3 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -952,7 +980,7 @@
   {
     "Banka": "Fio banka",
     "Délka tenoru": "4 roky",
-    "Výše úrokové sazby": "2,30 %",
+    "Výše úrokové sazby": "3,00 %",
     "Minimální výše vkladu": "3 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -973,7 +1001,7 @@
   {
     "Banka": "Fio banka",
     "Délka tenoru": "5 let",
-    "Výše úrokové sazby": "2,30 %",
+    "Výše úrokové sazby": "3,00 %",
     "Minimální výše vkladu": "3 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
