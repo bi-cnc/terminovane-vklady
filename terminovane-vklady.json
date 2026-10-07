@@ -112,7 +112,7 @@
   {
     "Banka": "Air Bank",
     "Délka tenoru": "1 měsíc",
-    "Výše úrokové sazby": "2,70 %",
+    "Výše úrokové sazby": "3,70 %",
     "Minimální výše vkladu": "30 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -448,7 +448,7 @@
   {
     "Banka": "Komerční banka",
     "Délka tenoru": "6 měsíců",
-    "Výše úrokové sazby": "2,50 %",
+    "Výše úrokové sazby": "4,00 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "3 000 000 Kč"
   },
@@ -630,7 +630,7 @@
   {
     "Banka": "Creditas",
     "Délka tenoru": "1 rok",
-    "Výše úrokové sazby": "3,65 %",
+    "Výše úrokové sazby": "3,80 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -798,7 +798,7 @@
   {
     "Banka": "Creditas",
     "Délka tenoru": "2 roky",
-    "Výše úrokové sazby": "3,70 %",
+    "Výše úrokové sazby": "3,90 %",
     "Minimální výše vkladu": "5 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
@@ -924,7 +924,14 @@
   {
     "Banka": "Moneta Money Bank",
     "Délka tenoru": "3 roky",
-    "Výše úrokové sazby": "3,50 %",
+    "Výše úrokové sazby": "4,30 %",
+    "Minimální výše vkladu": "15 000 Kč",
+    "Maximální výše vkladu": "neomezeno"
+  },
+    {
+    "Banka": "Moneta Money Bank",
+    "Délka tenoru": "5 let",
+    "Výše úrokové sazby": "4,50 %",
     "Minimální výše vkladu": "15 000 Kč",
     "Maximální výše vkladu": "neomezeno"
   },
